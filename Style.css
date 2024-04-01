@@ -1,0 +1,503 @@
+
+body{
+    margin: 0;
+    font-family: 'Domine',serif;
+    
+}
+.imgdiv{
+    width: 100%;
+    height: 818px;
+    background:url(images/site\ img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logodiv{
+    width:100%;
+    height: 121px;
+    display: flex;
+
+}
+.sitelogo{
+    width: 107px;
+    height: 74px;
+    padding-left: 70px;
+    padding-top: 50px;
+
+}
+.logindiv{
+    width: 100%;
+    height: 60px;
+    margin: 0;
+    display: flex;
+}
+.login{
+    color: #fff;
+    width: 10px;
+    margin-left: 1400px;
+    margin-top: 10px;
+    opacity: 0.8;
+    font-size: 13px;
+}
+.register{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: #fff;
+    opacity: 0.8;
+    font-size: 13px;
+}
+.navdiv{
+    width: 100%;
+    height: 70px;
+    margin-top: -77px;
+}
+.list{
+    list-style-type: none;
+    color: #fff;
+    padding-left: 450px;
+}
+.nav{
+    float: left;
+    padding: 10px;
+    font-weight: 600;
+    
+}
+.onamlogo{
+    width: 135px;
+    height: 35px;
+    padding-left: 19px;
+    
+}
+.seconddiv{
+    width: 100%;
+    height: 500px;
+    
+}
+.leftdiv{
+    width: 60%;
+    height: 450px;
+    float: left;
+    
+}
+.rightdiv{
+    width: 40%;
+    height: 450px;
+    float: left;
+
+}
+.heading{
+    padding-top: 70px;
+    font-weight: 700;
+    font-size: 32px;
+    font-family: inherit;
+    padding-left: 60px;
+    margin: 0;
+    color: #535353;
+}
+.para{
+    margin: 0;
+    padding-top: 10px;
+    padding-left: 60px;
+    width: 1003px;
+    color: #535353;
+    font-size: 13px;
+    font-family: 'Domine',serif;
+    line-height: 1.7;
+
+}
+.button{
+    color: #fff;
+    background-color: #f47929;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Domine', serif;
+    width: 108px;
+    height: 40px;
+    margin-left: 60px;
+    margin-top: 19px;
+}
+.powdr{
+    width: 692px;
+    height: 397px;
+    margin-top: 61px;
+}
+.thirddiv{
+    width: 100%;
+    height: 300px;
+    margin: 0;
+}
+.innerdiv1{
+    width: 433px;
+    height: 300px;
+    margin-left: 100px;
+    float: left;
+}
+.innerdiv2{
+    width: 433px;
+    height: 300px;
+    float: left;
+}
+.innerdiv3{
+    width: 433px;
+    height: 300px;
+    float: left;
+}
+.innerdiv4{
+    width: 433px;
+    height: 300px;
+    float: left;
+}
+.handimg{
+    width: 100px;
+    height: 100px;
+    margin-left: 138px;
+    margin-top: 19px;
+}
+.face{
+    width: 80px;
+    height: 80px;
+    margin-top: 35px;
+    margin-left: 186px;
+}
+.quality{
+    width: 80px;
+    height: 80px;
+    margin-left:165px ;
+    margin-top: 37px;
+
+}
+.trophy{
+    width: 80px;
+    height: 80px;
+    margin-left: 141px;
+    margin-top:40px;
+}
+h4{
+    font-size: 50px;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: -3px;
+    margin-left: 154px;
+    color: #535353;
+}
+h6{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: #535353;
+    margin-left: 151px;
+    margin-top: -68px;
+    
+    
+}
+.fourthdiv{
+    margin: 0;
+    width: 100%;
+    height: 400px;
+    margin-top: -41px;
+    display: flex;
+    
+
+}
+.worldwide{
+    width: 45%;
+    height: 260px;
+    background-color:#ffae79;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #f49e66;
+    margin-left: 95px;
+
+}
+.qualityproducts{
+    width: 45%;
+    height: 260px;
+    background-color:#bbd8ff;
+    margin-left: 20px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #a2c5f5;
+}
+.world{
+    
+    width: 224px;
+    height: 112px;
+    margin-left: 46px;
+    margin-top: 64px;
+}
+.chefimg{
+    width: 100px;
+    height: 100px;
+    margin-top: 70px;
+    margin-left:68px ;
+}
+h3{
+    margin: 0;
+    font-size: 28px;
+    color:#535353;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 300px;
+    margin-top: -125px;
+    font-style: normal;
+    font-family: 'Domine', serif;
+}
+.spreadingaroma{
+    margin: 0;
+    margin-top: 12px;
+    margin-left: 303px;
+    color: #535353;
+    font-size: 14px;
+    font-family: 'Domine',serif;
+    width: max-content;
+    line-height: 1.7;
+}
+.button2{
+    color: #fff;
+    background-color: #f47929;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Domine', serif;
+    width: 108px;
+    height: 40px;
+    margin-left: 305px;
+    margin-top: 12px;
+}
+.fifthdiv{
+    width: 100%;
+    height: 650px;
+    margin-top: -72px;
+}
+.newproducts{
+    line-height: 18px;
+    padding-top: 63px;
+    padding-left: 110px;
+    margin: 0;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+}
+.fifthsub{
+    width: 1670px;
+    height: 506px;
+    margin-left: 100px;
+    margin-top: 107px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.sub1{
+    width: 25%;
+    height: 507px;
+    float: left;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color:#d7d7d7;
+    border-bottom: none;
+}
+.sub2{
+    width: 25%;
+    height: 507px;
+    float: left;
+    margin-left: 15px;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color:#d7d7d7;
+    border-bottom: none;
+}
+
+.sub3{
+    width: 25%;
+    height: 507px;
+    float: left;
+    margin-left: 15px;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color:#d7d7d7;
+    border-bottom: none;
+}
+
+.sub4{
+    width: 25%;
+    height: 507px;
+    margin-left: 15px;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color:#d7d7d7;
+    border-bottom: none;
+}
+.img4{
+    width:396px ;
+    height: 434.19px;
+    
+}
+.sixthdiv{
+    width: 100%;
+    height: 441px;
+    margin-top: 80px;
+    display: flex;
+}
+
+.cook{
+    width: 522px;
+    height: 336px;
+    margin-top: 98px;
+    margin-left: 127px;
+}
+.sixthsub{
+    width:  30%;
+    height: 400px;
+    margin-left: 60px;
+    float: left;
+}
+.sixthsub2{
+    width:  70%;
+    height: 400px;
+    margin-left: 50px;
+    float: left;
+
+}
+.combination{
+    margin: 0;
+    margin-top: 97px;
+    margin-left: 189px;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 50px;
+}
+.wonders{
+    margin-left: 190px;
+    margin-top: 7px;
+    width: 742px;
+    line-height: 1.7;
+    font-size: 13px;
+    font-family: 'Domine', serif;
+}
+.cookbutton{
+    color: #fff;
+    background-color: #f47929;
+    border-radius: 3px;
+    border: none;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'Domine', serif;
+    width: 145px;
+    height: 40px;
+    margin-left: 193px;
+    margin-top: 14px;
+}
+.seventhdiv{
+    width: 100%;
+    height: 400px;
+    background:url(images/art-bg1.png);
+    background-size: 50%;
+    text-align: center;
+    padding-top:110px;
+
+}
+.newsletter{
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    display: inline-block;
+    margin: 0px auto;
+
+    
+
+}
+.delicious{
+    font-family: 'Domine', serif;
+    font-size: 13px;
+
+}
+.email{
+    width: 587px;
+    height: 30px;
+    font-family: 'Domine', serif; 
+    border-radius: 3px;
+    border: 1px solid #d9d9d9;
+}
+.joinus{
+    height: 30px;
+    width:100px ;
+    background-color: #f47929; 
+    border: none;
+    border-radius: 3px;
+    
+    font-family: 'Domine', serif;
+    color: #fff;
+
+}
+.footerdiv{
+    width: 100%;
+    height: 550px;
+    background-color: #535353;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    text-align: left;
+}
+.footer1{
+    width: 262.5px;
+    height: 450px;
+    margin-left: 60px;
+    
+}
+
+
+.footer2{
+    width: 262.5px;
+    height: 450px;
+  
+    margin-left: 30px;
+    
+}
+.footer3{
+    width: 262.5px;
+    height: 450px;
+   
+    margin-left: 30px;
+    
+}
+.footer4{
+    width: 262.5px;
+    height: 450px;
+    margin-left: 30px;
+    
+}
+.footerul{
+    list-style-type: none;
+    width: 75%;
+    font-family: 'Domine', serif;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #fff;
+}
+.footerhead{
+    margin-left: 40px;
+    font-size: 26px;
+    line-height: 40px;
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    margin-top: 69px;
+    margin-bottom: 10px;
+}
+.footerend{
+    font-size: 16px;
+    color: #fff;
+    margin-top: 38px;
+   
+}
+.footerend2{
+    font-size: 16px;
+    color: #fff;
+    margin-top: 204px;
+    width: 300px;
+    
+    
+}
